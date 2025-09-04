@@ -1,6 +1,5 @@
 header{
   background-color: #ffedd5;
-  border-bottom:1px solid #ddd;
   padding:1rem 2rem;
   display:flex;
   justify-content:space-between;
@@ -37,10 +36,6 @@ nav a{
   font-size:1rem;
 }
 
-nav a:hover{
-  color: #ff6600;
-}
-
 .search-box input{
   padding:6px 10px;
   border:1px solid #ccc;
@@ -54,10 +49,4 @@ nav a:hover{
   background-color: #ff6600;
   color: white;
   border-radius:6px;
-  cursor:pointer;
-  font-size:0.9rem;
-}
-
-.search-box button:hover{
-  background-color: #e65c00;
 }
